@@ -78,4 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:thinkinnight/thinkinnight.github.io.git,master
+  repo: git@github.com:thinkinnight/thinkinnight.github.io.git
+  branch: master
