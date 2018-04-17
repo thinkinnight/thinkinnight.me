@@ -1,13 +1,15 @@
 language: node_js
 node_js: stable
 
+cache:
+  directories:
+    - node_modules
+
 install:
 - npm install
 - npm install hexo-cli -g
 
 before_install:
-- npm install hexo -g
-
 - openssl aes-256-cbc -K $encrypted_f901e14975c5_key -iv $encrypted_f901e14975c5_iv
   -in .travis/travis_ci.enc -out ~/.ssh/travis_ci -d
 
