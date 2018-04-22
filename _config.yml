@@ -119,3 +119,10 @@ markdown:
     permalink: false
     permalinkClass: header-anchor
     permalinkSymbol: ¶
+
+math:
+    engine: 'mathjax'
+    mathjax:
+        src: custom_mathjax_source
+        config:
+            # MathJax config
