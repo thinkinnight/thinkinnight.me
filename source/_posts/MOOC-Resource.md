@@ -1,5 +1,5 @@
 ---
-title: 公开课资源整理
+title: 资源整理（公开课，书单）
 date: 2018-05-08 09:40:26
 tags:
 ---
@@ -28,11 +28,9 @@ tags:
 * CMU 15-213 (CSAPP)
   * [主页](http://www.csapp.cs.cmu.edu/)
   * [笔记](http://wdxtub.com/2016/04/16/thin-csapp-1/)
-
 * MIT 6.828
   * [主页](https://pdos.csail.mit.edu/6.828/)
   * [中文版教材](https://www.gitbook.com/book/th0ar/xv6-chinese)
-
 * [UCB CS61c](http://www-inst.eecs.berkeley.edu/%7Ecs61c/)
 * [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 * [斯坦福 CS144](https://www.bilibili.com/video/av11930774/)
@@ -71,7 +69,7 @@ tags:
 * 斯坦福 CS229
   * [视频](http://open.163.com/special/opencourse/machinelearning.html)
   * [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
-* 斯坦福 CS231n
+* 斯坦福 CS231n（李飞飞）
   * [视频](https://www.bilibili.com/video/av17204303/)
   * [讲义](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 * 斯坦福 CS224d
@@ -84,6 +82,11 @@ tags:
 * UCB CS294
   * [视频](https://www.bilibili.com/video/av9802698/)
   * [笔记](https://zhuanlan.zhihu.com/c_150977189)
+* coursera 机器学习基石（林轩田）
+* [amazon的李沐博士（及其同事aston zhang）的mxnet教程](https://space.bilibili.com/209599371/%23/)
+* [谷歌tensorflow公开课程](https://developers.google.com/machine-learning/crash-course/ml-intro%3Fhl%3Dzh-cn)
+* 微软人工智能公开课程
+    * [Azure School](https://school.azure.cn/)
 
 # 商业·理财
 
@@ -94,6 +97,9 @@ tags:
 * [斯坦福 CS183c](http://blog.csdn.net/wizardforcel/article/details/79440956)
 * [斯坦福 CS183f](http://blog.csdn.net/wizardforcel/article/details/79547908)
 * [斯坦福 CS007](https://cs007.blog/)
+
+# 其他
+* 《别闹了，费曼先生》
 
 # Reference
 
